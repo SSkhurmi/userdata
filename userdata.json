@@ -51,7 +51,24 @@
           "password": "123456",
           "userRole":"admin"
         
-      }
+      },
+      {
+        
+        "id":7,
+        "username": "admin",
+        "email": "william.wilson@example.com",
+        "password": "admin",
+        "userRole":"admin"
+      
+    },{
+        
+      "id":7,
+      "username": "reader",
+      "email": "william.wilson@example.com",
+      "password": "reader",
+      "userRole":"admin"
+    
+  }
     
     ]
   }
