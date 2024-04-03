@@ -47,7 +47,7 @@
         
           "id":7,
           "username": "Sagar Singh",
-          "email": "william.wilson@example.com",
+          "email": "sagar@example.com",
           "password": "123456",
           "userRole":"admin"
         
@@ -56,7 +56,7 @@
         
         "id":7,
         "username": "admin",
-        "email": "william.wilson@example.com",
+        "email": "admin@example.com",
         "password": "admin",
         "userRole":"admin"
       
@@ -64,9 +64,9 @@
         
       "id":7,
       "username": "reader",
-      "email": "william.wilson@example.com",
+      "email": "reader@example.com",
       "password": "reader",
-      "userRole":"admin"
+      "userRole":"reader"
     
   }
     
